@@ -1,0 +1,17 @@
+posts/node_modules
+posts/build
+posts/npm-debug.log
+posts/.env
+posts/.DS_Store
+
+comments/node_modules
+comments/build
+comments/npm-debug.log
+comments/.env
+comments/.DS_Store
+
+node_modules
+build
+npm-debug.log
+.env
+.DS_Store
